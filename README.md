@@ -6,7 +6,6 @@ This repository contains:
 - **Backend**: Flask service that loads a trained ResNet-34 turbidity classifier and exposes `/predict`.
 - **Mobile**: React Native (Expo) app to take/upload water photos, send to backend, and display predictions.
 
-You need to supply the trained model file named `best_turbidity_model.pth` in the backend folder.
 
 ## Backend Setup
 
